@@ -1,0 +1,8 @@
+.vscode
+debug-obj
+obj
+a.out
+runfile
+assembler.c
+asm-emulator
+asm-emulator-debug
